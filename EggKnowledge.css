@@ -336,9 +336,18 @@ footer {
 
 }
 
+.commhouse-bodyVideo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
 #cagefree-body h3 {
 	text-align: center;
 	text-decoration: underline;
+	padding-top: 10em;
 
 }
 
@@ -401,3 +410,143 @@ footer {
 	margin-top: -150px;
 }
 
+.About-ContactForm {
+	padding-top: 5em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+#EggMarketing-TextBody h2 {
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 3em;
+
+}
+
+#EggMarketing-TextBody p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+
+
+}
+
+#cagedeggs-body h3 {
+	margin-top: 50px;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+.whiteegg-pic {
+	padding-top: 10px;
+	display: block;
+	margin: auto;
+	height: 600px;
+	width: 600px;
+
+}
+
+#EggMarketing-TextBody p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+
+
+}
+
+#cagedeggs-body p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+	margin-top: -100px;
+
+}
+
+#cagefree-body h3 {
+	margin-top: 15px;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+.cagefree-pic {
+	padding-top: 10px;
+	display: block;
+	margin: auto;
+	height: 800px;
+	width: 800px;
+
+}
+
+
+#cagefree-body p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+	margin-top: -150px;
+
+}
+
+#pastureraised-body h3 {
+	margin-top: 50px;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+.pastureraisedeggs-pic {
+	padding-top: 10px;
+	display: block;
+	margin: auto;
+	height: 600px;
+	width: 600px;
+
+}
+
+
+#pastureraised-body p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+	margin-top: -100px;
+
+}
+
+.eggcosts-pic {
+	padding-top: 100px;
+	display: block;
+	margin: auto;
+	height: 600px;
+	width: 600px;
+
+}
+
+#eggscosts-TextBody h2 {
+	margin-top: 50px;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+#eggscosts-TextBody p {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 100px;
+	text-align: center;
+
+}
+
+
+.farmgate {
+	margin: 0 auto;	
+	display: table;
+
+}
